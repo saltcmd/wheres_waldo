@@ -5,7 +5,7 @@ The goal of this project is to find Waldo using a machine learning model trained
 ## Method
 
 ### 1. Scrape
-- **Image Collection**: Collected 50 images of "Where's Waldo" that are roughly the same size and are already solved to avoid manual annotation.
+- **Image Collection**: Collected 50 images of "Where's Waldo" that are roughly the same size.
 
 ### 2. Annotate
 - **Custom Annotation Tool**: Developed a custom annotation tool to quickly annotate the images and create the dataset.
