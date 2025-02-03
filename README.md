@@ -1,6 +1,6 @@
 # wheres_waldo
 ## Goal
-The goal of this project is to find Waldo using a machine learning model trained on less than 50 images. The aim was to keep the dataset small to avoid overfitting and to ensure the model generalizes well to unseen images.
+The goal of this project is to find Waldo using a machine learning model trained on less than 50 images. The aim was to keep the dataset small to ensure the model generalizes well to unseen images, as there is a set number of Wheres Waldos created.
 
 ## Method
 
